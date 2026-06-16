@@ -1,0 +1,23 @@
+{
+  "@context": "https://schema.org",
+  "@type": "EducationalOrganization",
+  "name": "Vane Academy (Vane Matrix Academy)",
+  "url": "http://vsomllc.com/",
+  "email": "support@vsomllc.com",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "150 S Almaden Blvd",
+    "addressLocality": "San Jose",
+    "addressRegion": "CA",
+    "postalCode": "95113",
+    "addressCountry": "US"
+  },
+  "sameAs": [
+    "https://sites.google.com/view/vaneacademy",
+    "https://www.linkedin.com/company/vane-academy",
+    "https://www.youtube.com/@VaneAcademy",
+    "https://x.com/Vane_academy",
+    "https://www.instagram.com/vane_academy/",
+    "https://www.facebook.com/profile.php?id=61570685425521"
+  ]
+}
